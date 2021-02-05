@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserLoginProfileApp</string>
+
+    <!--    For Facebook, from facebook developer console-->
+    <string name="facebook_app_name">Login Profile Application</string>
+<!--    <string name="ACCOUNT_KIT_CLIENT_TOKEN">328816495112629</string>-->
+    <string name="facebook_app_id">328816495112629</string>
+<!--    <string name="fb_login_protocol_scheme">fb328816495112629</string>-->
+
+</resources>
